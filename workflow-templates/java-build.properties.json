@@ -1,0 +1,8 @@
+{
+  "name": "Java Maven Build",
+  "description": "Build and test a Java Maven project",
+  "iconName": "java",
+  "categories": [
+    "Java"
+  ]
+}
